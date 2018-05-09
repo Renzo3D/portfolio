@@ -1,0 +1,27 @@
+{
+  "name": "startnow-node200-ejs-portfolio",
+  "version": "1.0.0",
+  "description": "My Personal Portofolio",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C My Personal portofolio\u001b[B",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Renzo3D/portfolio.git"
+  },
+  "author": "Renzo Pozo <renzopozo@yahoo.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Renzo3D/portfolio/issues"
+  },
+  "homepage": "https://github.com/Renzo3D/portfolio#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "bootstrap": "^4.1.1",
+    "ejs": "^2.5.9",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+  }
+}
