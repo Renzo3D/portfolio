@@ -11,6 +11,3 @@ jobs:
       - run:
           name: Print the Current Time
           command: date
-  test:
-    override:
-      - echo "test"  

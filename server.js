@@ -53,7 +53,7 @@ app.post('/thanks',(req, res) =>{
     // https://facebook.us18.list-manage.com/subscribe/post?u=b9e4353b25de72e7597454479&amp;id=a54a57f485
 });
 
-app.listen(8080, () => {
+app.listen(process.env.PORT || 8080, () => {
     console.log('Listening at http://localhost:8080');
 })
 
